@@ -4,10 +4,10 @@
   height: 1024px;
   left: 0px;
   top: 0px;
-  background-color: #301b8f;
+  background-color: #04066d;
 }
 h1{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 24px;
@@ -22,7 +22,7 @@ h1{
   left: 85px;
   top: 68px;
 
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 24px;
@@ -38,7 +38,7 @@ h1{
   left: 193px;
   top: 68px;
 
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 24px;
@@ -54,7 +54,7 @@ h1{
   left: 283px;
   top: 68px;
 
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 24px;
@@ -70,7 +70,7 @@ h1{
   left: 442px;
   top: 68px;
 
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 24px;
@@ -86,7 +86,7 @@ h1{
   left: 541px;
   top: 68px;
 
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 24px;
@@ -105,7 +105,7 @@ h1{
   font-family: Montserrat;
   font-style: normal;
   font-weight: bold;
-  font-size: 48px;
+  font-size: 40px;
   line-height: 59px;
 
   color: #e8afce;
@@ -121,7 +121,7 @@ h1{
   font-family: Montserrat;
   font-style: normal;
   font-weight: 800;
-  font-size: 96px;
+  font-size: 80px;
   line-height: 117px;
 
   color: #ffffff;
@@ -131,7 +131,7 @@ h1{
   position: absolute;
   width: 500px;
   height: 500px;
-  left: 927px;
+  left: 700px;
   top: 512px;
 }
 
@@ -166,8 +166,8 @@ top: 1208px;
   position: absolute;
 width: 600px;
 height: 66px;
-left: 873px;
-top: 1352px;
+left: 600px;
+top: 1250px;
 
 font-family: Montserrat;
 font-style: normal;
@@ -235,7 +235,7 @@ table {
   position: absolute;
 width: 951px;
 height: 454px;
-left: 244px;
+left: 200px;
 top: 2282px;
 
 background: #FFFFFF;
@@ -253,7 +253,7 @@ table th{
   position: absolute;
 width: 146px;
 height: 66px;
-left: 647px;
+left: 600px;
 top: 2956px;
 
 font-family: Montserrat;
@@ -273,7 +273,7 @@ color: #4C0027;
   position: absolute;
 width: 203px;
 height: 28px;
-left: 619px;
+left: 100px;
 top: 3161px;
 
 font-family: Roboto;
@@ -289,7 +289,7 @@ color: #000000;
   position: absolute;
 width: 688px;
 height: 28px;
-left: 380px;
+left: 100px;
 top: 3399px;
 
 font-family: Roboto;
@@ -306,7 +306,7 @@ color: #000000;
   position: absolute;
 width: 745px;
 height: 28px;
-left: 380px;
+left: 100px;
 top: 3637px;
 
 font-family: Roboto;
@@ -323,7 +323,7 @@ color: #000000;
   position: absolute;
 width: 1129px;
 height: 105px;
-left: 162px;
+left: 100px;
 top: 3202px;
 
 font-family: Roboto;
@@ -339,7 +339,7 @@ color: #000000;
   position: absolute;
 width: 1129px;
 height: 63px;
-left: 162px;
+left: 100px;
 top: 3451px;
 
 font-family: Roboto;
@@ -356,7 +356,7 @@ color: #000000;
   position: absolute;
 width: 1129px;
 height: 42px;
-left: 156px;
+left: 100px;
 top: 3698px;
 
 font-family: Roboto;
@@ -373,7 +373,7 @@ color: #000000;
   position: absolute;
 width: 240px;
 height: 66px;
-left: 616px;
+left: 500px;
 top: 3894px;
 
 font-family: Montserrat;
@@ -392,7 +392,7 @@ color: #4C0027;
   position: absolute;
 width: 759px;
 height: 444.93px;
-left: 341px;
+left: 230px;
 top: 4017px;
 }
 
@@ -410,7 +410,7 @@ background: #4C0027;
   position: absolute;
   width: 500px;
   height: 42px;
-  left: 580px;
+  left: 350px;
   top: 4675px;
   
   font-family: Roboto;
@@ -422,4 +422,8 @@ background: #4C0027;
   
   color: #d3e1e8;
   
+}
+body {
+  max-width: 100%;
+  overflow-x: hidden;
 }
